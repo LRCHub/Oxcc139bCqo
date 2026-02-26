@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "透明(Live at SUPERNOVA KAWASAKI,2025/01/11)",
+  "base_artist": "*Luna",
+  "createdAt": "2026-02-26T08:24:31.156782Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "透明",
+      "artist": "*Luna, ねんね",
+      "has_synced": false,
+      "path": "select/pl_01_透明_Luna,_ねんね.txt"
+    }
+  ]
+}
